@@ -1,2 +1,2 @@
 # angular-tutorial
-Tour of Heroes Tutorial 
+Tour of Heroes: Official Angular Tutorial 
