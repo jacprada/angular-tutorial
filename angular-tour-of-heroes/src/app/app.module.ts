@@ -17,7 +17,10 @@ import { HeroDetailComponent } from './hero-detail/hero-detail.component';
     BrowserModule,
     FormsModule
   ],
-  providers: [],
+  providers: [
+    HeroService,
+    MessageService
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
